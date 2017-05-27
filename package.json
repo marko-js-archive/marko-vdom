@@ -25,7 +25,7 @@
   "license": "MIT",
   "devDependencies": {
     "benchmark": "^2.1.1",
-    "chai": "^3.5.0",
+    "chai": "^4.0.0",
     "coveralls": "^2.11.12",
     "istanbul": "^0.4.5",
     "jsdom": "^9.4.2",
