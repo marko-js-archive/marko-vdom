@@ -36,5 +36,10 @@
   },
   "dependencies": {
     "raptor-util": "^3.1.0"
+  },
+  "greenkeeper": {
+    "ignore": [
+      "jsdom"
+    ]
   }
 }
