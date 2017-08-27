@@ -67,5 +67,14 @@ module.exports = function(node) {
         }
     }
 
-    return 'return ' + codegen(node, 0) + '\n';
+    var id = node.id;
+    var selector = "";
+
+    if (id) {
+        selector = 'document.getElementById(\'' + id + '\')';
+    } else {
+        selector = 'document.getElementById(\'todoapp\')';
+    }
+
+    return 'return ReactDOM.render(' + codegen(node, 0) + ', ' + selector + ');\n';
 };
