@@ -1,5 +1,5 @@
 
-_NOTE: THIS REPO IS NO LONGER MAINTAINED OR USED. The VDOM implementation that Marko uses now lives in the main Marko repo. Please see: [marko-js/marko/src/runtime/vdom](https://github.com/marko-js/marko/tree/036e7530c4504209d8b82835aaa89945737f1471/src/runtime/vdom)_
+___NOTE: THIS REPO IS NO LONGER MAINTAINED OR USED. The VDOM implementation that Marko uses now lives in the main Marko repo. Please see: [marko-js/marko/src/runtime/vdom](https://github.com/marko-js/marko/tree/036e7530c4504209d8b82835aaa89945737f1471/src/runtime/vdom)___
 
 marko-vdom
 ==========
