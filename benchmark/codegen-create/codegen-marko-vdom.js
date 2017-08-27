@@ -50,7 +50,7 @@ module.exports = function(node) {
 
     codegen(node, 0);
 
-    return 'return ' + code + '\n';
+    return 'return ' + code + '.actualize(document)\n';
 };
 
 module.exports.generateInitCode = function(node, html) {
