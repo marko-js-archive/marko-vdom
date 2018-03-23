@@ -31,7 +31,7 @@
     "jsdom": "^9.4.2",
     "jshint": "^2.9.3",
     "lodash": "^4.15.0",
-    "mocha": "^3.0.2",
+    "mocha": "^5.0.5",
     "open": "0.0.5"
   },
   "dependencies": {
